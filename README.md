@@ -1,8 +1,16 @@
-# System Configuration Utilities
+# Windows System Administration Tools Portfolio
 
-A collection of professional-grade system configuration and management utilities built with Python and PowerShell. This toolkit provides a comprehensive GUI interface and batch scripts for Windows system administration tasks.
+A showcase of professional system administration and automation tools demonstrating expertise in:
 
-## 🛠️ Components
+Python application development
+Windows system administration
+PowerShell scripting
+GUI application design
+Enterprise system configuration
+
+This portfolio demonstrates practical experience creating enterprise-grade utilities for system configuration, hardware management, and network administration. The project showcases clean code organization, robust error handling, and secure implementation of system-level operations.
+
+## 🛠️ Projects
 
 ### System Configuration Utility (staging_setup_utility.py)
 
@@ -108,6 +116,6 @@ python staging_setup_utility.py
 
 ## 📫 Contact
 
-Your Name - bdon.ross@gmail.com
+Brandon Ross - bdon.ross@gmail.com
 
 Portfolio Link: [https://github.com/ssordub/Portfolio](https://github.com/yourusername/system-utilities)
